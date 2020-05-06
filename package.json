@@ -1,0 +1,20 @@
+{
+  "name": "react-ranger",
+  "version": "1.0.0",
+  "description": "tree data flow and view structures for react",
+  "main": "index.js",
+  "author": "Joseph Weissman <joseph@cypress.io>",
+  "license": "MIT",
+  "private": true,
+  "scripts": { "test": "jest" },
+  "devDependencies": {
+    "@types/jest": "^25.2.1",
+    "@types/uuid": "^7.0.3",
+    "jest": "^26.0.0",
+    "ts-jest": "^25.4.0",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "uuid": "^8.0.0"
+  }
+}
